@@ -8,5 +8,4 @@ visualizations
 *.fls
 *.log
 *.out
-public/
-.idea/
+hugo/
