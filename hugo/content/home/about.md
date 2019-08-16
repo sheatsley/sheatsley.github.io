@@ -1,7 +1,7 @@
 +++
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 0  # Order that this section will appear in.
 
@@ -12,10 +12,6 @@ title = "Ryan Sheatsley"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "sheatsley"
 
-[design.spacing]
- # Customize the section spacing. Order is top, right, bottom, left.
- padding = ["50px", "20x", "20px", "0"]
-
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -23,6 +19,10 @@ author = "sheatsley"
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -32,15 +32,4 @@ author = "sheatsley"
     
   # Background color.
   color = "White"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
 +++
