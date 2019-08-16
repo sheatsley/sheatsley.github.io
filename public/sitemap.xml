@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sheatsley.me/authors/sheatsley/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sheatsley.me/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sheatsley.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sheatsley.me/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sheatsley.me/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sheatsley.me/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sheatsley.me/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sheatsley.me/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sheatsley.me/tags/</loc>
+  </url>
+  
+</urlset>
