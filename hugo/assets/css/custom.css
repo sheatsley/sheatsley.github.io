@@ -2,3 +2,7 @@
 .ai {
   color: rgb(49,49,49);
 }
+
+.container {
+  max-width: 780px;
+}
