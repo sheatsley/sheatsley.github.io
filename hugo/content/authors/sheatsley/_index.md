@@ -42,23 +42,23 @@ superuser: true
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:ryan@sheatsley.me'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/RyanSheatsley
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:ryan@sheatsley.me'  # For a direct email link, use "mailto:test@example.org".
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=BIl9HXgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/sheatsley
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/RyanSheatsley
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -81,3 +81,6 @@ machine learning for security. I am exploring how machine learning systems can
 be abused by adversaries and techniques to better secure them. I am also
 investigating how to leverage machine learning to solve challenging security
 problems.
+
+**Address:** W378 Westgate Building, University Park, PA 16802, USA\
+**Email:** [ryan@sheatsley.me](mailto:ryan@sheatsley.me)
