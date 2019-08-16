@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Sheatsley</title>
-    <link>https://sheatsley.me/</link>
-      <atom:link href="https://sheatsley.me/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sheatsley.github.io/</link>
+      <atom:link href="https://sheatsley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan Sheatsley</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://sheatsley.me/img/avatar.jpg</url>
+      <url>https://sheatsley.github.io/img/avatar.jpg</url>
       <title>Ryan Sheatsley</title>
-      <link>https://sheatsley.me/</link>
+      <link>https://sheatsley.github.io/</link>
     </image>
     
     <item>
@@ -22,25 +22,25 @@
     
     <item>
       <title>Posts</title>
-      <link>https://sheatsley.me/post/</link>
+      <link>https://sheatsley.github.io/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sheatsley.me/post/</guid>
+      <guid>https://sheatsley.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://sheatsley.me/publication/</link>
+      <link>https://sheatsley.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sheatsley.me/publication/</guid>
+      <guid>https://sheatsley.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sheatsley.me/talk/</link>
+      <link>https://sheatsley.github.io/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sheatsley.me/talk/</guid>
+      <guid>https://sheatsley.github.io/talk/</guid>
       <description></description>
     </item>
     
