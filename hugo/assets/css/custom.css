@@ -4,5 +4,37 @@
 }
 
 .container {
-  max-width: 780px;
+  max-width: 900px;
+}
+
+span.pro {
+    border-radius: 5px;
+    background: #006cbf;
+    padding: 3px;
+    font-size: 11px;
+    color: #ffffff;
+}
+
+span.tr {
+    border-radius: 5px;
+    background: #6b6b6b;
+    padding: 3px;
+    font-size: 11px;
+    color: #ffffff;
+}
+
+span.ws {
+    border-radius: 5px;
+    background: #fff236;
+    padding: 3px;
+    font-size: 11px;
+    color: #ffffff;
+}
+
+span.aw {
+    border-radius: 5px;
+    background: #c43535;
+    padding: 3px;
+    font-size: 11px;
+    color: #ffffff;
 }
