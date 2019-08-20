@@ -4,12 +4,13 @@
     <title>Ryan Sheatsley</title>
     <link>https://sheatsley.github.io/</link>
       <atom:link href="https://sheatsley.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ryan Sheatsley</description>
-    <language>en-us</language>
+    <description>Ryan Sheatsley</description><language>en-us</language>
     <image>
       <url>https://sheatsley.github.io/img/avatar.jpg</url>
       <title>Ryan Sheatsley</title>
       <link>https://sheatsley.github.io/</link>
     </image>
+    
+    
   </channel>
 </rss>
