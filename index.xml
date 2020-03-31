@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Sheatsley</title>
-    <link>https://sheatsley.github.io/</link>
-      <atom:link href="https://sheatsley.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ryan Sheatsley</description><language>en-us</language>
+    <link>https://sheatsley.me/</link>
+      <atom:link href="https://sheatsley.me/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan Sheatsley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://sheatsley.github.io/img/avatar.jpg</url>
+      <url>https://sheatsley.me/img/avatar.jpg</url>
       <title>Ryan Sheatsley</title>
-      <link>https://sheatsley.github.io/</link>
+      <link>https://sheatsley.me/</link>
     </image>
     
   </channel>
